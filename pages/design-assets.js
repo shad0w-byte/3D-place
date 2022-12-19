@@ -27,7 +27,7 @@ export default function DesignAssets() {
             <FlexDiv direction="column" justify="center" align="baseline">
               <div>
                   <h1>Design Assets</h1>
-                  <p>View informations about 3D space's design:</p>
+                  <p>View informations about 3D space&apos;s design:</p>
                   <ul>
                     <li>Font: <a href="https://fonts.google.com/specimen/Inconsolata?query=inco" rel="noreferrer" target="_blank">Inconsolata</a> </li>
 
