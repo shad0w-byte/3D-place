@@ -12,7 +12,7 @@ export default function Footer() {
               <Div 
               margin="10px" padding="10px" width="50%">
                     <span>Creator</span>
-                    <p>Hello World! I'm ssik, a brazilian web developer focused on ui/ux, webdesign and front-end projects!</p>
+                    <p>Hello World! I&apos;m ssik, a brazilian web developer focused on ui/ux, webdesign and front-end projects!</p>
                     <p>Discover more about me visiting my website: <a href='https://ssik824.vercel.app/' rel='noreferrer' target="_blank">Click Here</a></p>
               </Div>
               <Div 
