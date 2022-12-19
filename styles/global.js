@@ -17,6 +17,11 @@ const GlobalStyle = createGlobalStyle`
         width:100vw;
         height:100vh;
         overflow-x:hidden ;
+
+        @media(max-width:576px){
+            width:100%;
+            height:100%;
+        }
     }
     h1,h2,h3,h4,h5,h6{
         font-weight:800;
@@ -38,6 +43,12 @@ const GlobalStyle = createGlobalStyle`
         margin:10px 0;
         font-size:20px;
     } 
-   
+   canvas{
+       @media(max-width:576px){
+            width:100%;
+            height:350px;
+            padding:5px;
+       }
+   }
 `
 export default GlobalStyle
