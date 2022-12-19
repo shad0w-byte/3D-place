@@ -18,8 +18,8 @@ export default function CatScene() {
             <Navbar/>
         </header>
         <Canvas camera={{position:[20,20,30]}} shadows={true}>
-            <ambientLight color="white" intensity={0.1} position={[10,10,10]} castShadow={true}/> 
-            <RandomizedLight castShadow={true} amount={8} frames={100} position={[10, 10, 10]} /> 
+            <ambientLight color="white" intensity={0.2}  castShadow={true}/> 
+            <RandomizedLight castShadow={true} amount={10} frames={100} position={[10, 10, 10]} /> 
               <HouseModel/>
             <OrbitControls enableZoom={false}/>
         </Canvas>
