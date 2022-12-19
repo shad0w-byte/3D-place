@@ -1,6 +1,6 @@
 {
   "name": "3dplace",
-  "author":"ssik824",
+  "author": "ssik824",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "next-sitemap --config next-sitemap.config.js"
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@react-three/drei": "^9.46.5",
@@ -17,7 +17,7 @@
     "bootstrap-icons": "^1.10.2",
     "next": "13.0.6",
     "next-seo": "^5.15.0",
-    "next-sitemap": "^3.1.32",
+    "next-sitemap": "^3.1.43",
     "react": "18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "18.2.0",
