@@ -23,7 +23,7 @@ export default function navbar() {
       <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
         <Nav>
                 <Nav.Link href="https://github.com/victor-kiss" rel="noreferrer" >Creator</Nav.Link>
-                <Nav.Link href="/https://github.com/victor-kiss/project-name" rel="noreferrer">Source Code</Nav.Link>
+                <Nav.Link href="https://github.com/victor-kiss/3D-place" rel="noreferrer">Source Code</Nav.Link>
                 <Nav.Link href="/design-assets" rel="noreferrer">Design Assets</Nav.Link>
             </Nav>
         </Navbar.Collapse>

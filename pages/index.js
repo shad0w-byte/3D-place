@@ -72,7 +72,7 @@ export default function Home() {
                   <p>This project was made using <a href="https://nextjs.org/" rel="noreferrer" target="_blank">Next.js</a>, <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" rel="noreferrer" target="_blank">React Three Fiber</a>, <a href="https://github.com/pmndrs/drei" rel="noreferrer" target="_blank">React Three Drei</a> and  <a href="https://styled-components.com/" rel="noreferrer" target="_blank">Styled-Components</a>.</p>
                   <p>View models with controls, animations, light, textures, interactions and more! The source code are on my github. </p>
                   <ButtonLink>
-                      <a href="https://github.com/victor-kiss?tab=repositories" rel="noreferrer" target="_blank">View Source Code</a>
+                      <a href="https://github.com/victor-kiss/3D-place" rel="noreferrer" target="_blank">View Source Code</a>
                   </ButtonLink>
               </div>
             </FlexDiv>
